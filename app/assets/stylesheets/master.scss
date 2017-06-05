@@ -1,5 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css?family=El+Messiri');
 @import "bootstrap";
 
 .clear {
@@ -51,11 +50,13 @@ hr {
 }
 
 h1 {
-  font-family: 'El Messiri', sans-serif;
+  font-family: 'exoregular', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
 }
 
 h2 {
-  font-family: 'El Messiri', sans-serif;
+  font-family: 'exomediumitalic', sans-serif;
 }
 
 
