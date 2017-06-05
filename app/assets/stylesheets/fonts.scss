@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'exoregular';
-    src: url('exo-regular-webfont.woff2') format('woff2'),
-         url('exo-regular-webfont.woff') format('woff');
+    src: font_url('exo-regular-webfont.woff2') format('woff2'),
+         font_url('exo-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'exomediumitalic';
-    src: url('exo-mediumitalic-webfont.woff2') format('woff2'),
-         url('exo-mediumitalic-webfont.woff') format('woff');
+    src: font_url('exo-mediumitalic-webfont.woff2') format('woff2'),
+         font_url('exo-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
