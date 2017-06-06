@@ -7,4 +7,8 @@ class QuotesController < ApplicationController
     @quote = Quote.new
   end
 
+  def create
+  end
+
+
 end
